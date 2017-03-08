@@ -43,4 +43,5 @@ Specific Example -
 Transactions will be automatically created, one per text file that the user wants to use.
 
 - NOTES -
+
 -input2.txt was included as a test file for varying invalid inputs
