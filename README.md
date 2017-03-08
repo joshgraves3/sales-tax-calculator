@@ -1,6 +1,7 @@
 # sales-tax-calculator
 
 Liferay Sales Tax Coding Challenge
+
 Josh Graves
 
 - OVERVIEW -
